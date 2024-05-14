@@ -39,31 +39,31 @@ GitHub.
 
 ## Schedule
 
-|     | Date  | Learning Activities    | Assessments Due  |
-| --: | ----- | ---------------------- | ---------------- |
-|   1 | 30 AP | Introduction           |                  |
-|   2 | 03 MA | Relational model       |                  |
-|   3 | 07 MA | SQL DDL                |                  |
-|   4 | 10 MA | Normalization          |                  |
-|   5 | 14 MA | Lab                    |                  |
-|   6 | 17 MA | SQL DML I              |                  |
-|   7 | 21 MA | SQL DML II             | Take home exam 1 |
-|   8 | 24 MA | SQL DML III            |                  |
-|   9 | 28 MA | Lab                    |                  |
-|  10 | 31 JU | Introduction to Python |                  |
-|  11 | 04 JU | Code legibility        | Take home exam 2 |
-|  12 | 07 JU | Object oriented I      |                  |
-|  13 | 11 JU | Object oriented II     |                  |
-|  14 | 14 JU | Automated testing      |                  |
-|  15 | 18 JU | Lab                    |                  |
-|  16 | 21 JL | REST                   |                  |
-|  17 | 09 JL | HTTP server            |                  |
-|  18 | 12 JL | Router                 |                  |
-|  19 | 16 JL | Database API           | LIA part 1       |
-|  20 | 19 JL | Content management     |                  |
-|  21 | 23 JL | Authentication         |                  |
-|  22 | 26 JL | Lab                    |                  |
-|  23 | 30 JL | Lab                    | LIA part 2       |
+|     | Date  | Learning Activities       | Assessments Due  |
+| --: | ----- | ------------------------- | ---------------- |
+|   1 | 30 AP | Introduction              |                  |
+|   2 | 03 MA | Entity-relationship model |                  |
+|   3 | 07 MA | Relational model          |                  |
+|   4 | 10 MA | SQL DDL                   |                  |
+|   5 | 14 MA | Normalization             |                  |
+|   6 | 17 MA | Lab                       |                  |
+|   7 | 21 MA | SQL DML I                 |                  |
+|   8 | 24 MA | SQL DML II                | Take home exam 1 |
+|   9 | 28 MA | SQL DML III               |                  |
+|  10 | 31 MA | Lab                       |                  |
+|  11 | 04 JU | Introduction to Python    |                  |
+|  12 | 07 JU | Code legibility           | Take home exam 2 |
+|  13 | 11 JU | Object oriented I         |                  |
+|  14 | 14 JU | Object oriented II        |                  |
+|  15 | 18 JU | Automated testing         |                  |
+|  16 | 21 JU | Lab                       |                  |
+|  17 | 09 JL | REST                      |                  |
+|  18 | 12 JL | HTTP server               |                  |
+|  19 | 16 JL | Router                    |                  |
+|  20 | 19 JL | Database API              | LIA part 1       |
+|  21 | 23 JL | Authentication            |                  |
+|  22 | 26 JL | Lab                       |                  |
+|  23 | 30 JL | Lab                       | LIA part 2       |
 
 ## Assessments
 
